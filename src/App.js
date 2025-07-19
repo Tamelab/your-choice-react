@@ -34,7 +34,11 @@ function App() {
         <div className="row g-4">
           <div className="col-md-4">
             <div className="card">
-              <img src="https://via.placeholder.com/300x200?text=Chicken+Sandwich" className="card-img-top" alt="Chicken Sandwich"/>
+              <img 
+                src="https://www.pexels.com/photo/cheeseburger-with-meat-20722058/" 
+                className="card-img-top" 
+                alt="Spicy crispy fried chicken sandwich with lettuce and tomato on a sesame seed bun, served with golden French fries on a wooden board. The meal is presented in a casual dining setting, evoking a warm and inviting atmosphere. No visible text in the image. The tone is appetizing and cheerful." 
+              />
               <div className="card-body">
                 <h5 className="card-title">Chicken Sandwich</h5>
                 <p className="card-text">Crispy, juicy, and perfectly seasoned. A fan favorite!</p>
@@ -43,7 +47,11 @@ function App() {
           </div>
           <div className="col-md-4">
             <div className="card">
-              <img src="https://via.placeholder.com/300x200?text=Tenders" className="card-img-top" alt="Tenders"/>
+              <img 
+                src="https://www.pexels.com/photo/gourmet-fried-chicken-with-fries-and-sauce-31097759/" 
+                className="card-img-top" 
+                alt="Three golden brown chicken tenders arranged on a white plate with a small cup of dipping sauce. The background is plain and neutral. The word Tenders appears in large bold letters at the center of the image. The tone is simple and inviting." 
+              />
               <div className="card-body">
                 <h5 className="card-title">Chicken Tenders</h5>
                 <p className="card-text">Hand-battered, golden tenders with your choice of dipping sauce.</p>
@@ -52,7 +60,11 @@ function App() {
           </div>
           <div className="col-md-4">
             <div className="card">
-              <img src="https://via.placeholder.com/300x200?text=Biscuits" className="card-img-top" alt="Biscuits"/>
+              <img 
+                src="https://www.pexels.com/photo/close-up-photo-of-bread-1957017/" 
+                className="card-img-top" 
+                alt="Two fluffy golden biscuits stacked on a white plate with a soft, warm appearance. The background is plain and neutral. The word Biscuits appears in large bold letters at the center of the image. The tone is comforting and homey." 
+              />
               <div className="card-body">
                 <h5 className="card-title">Buttery Biscuits</h5>
                 <p className="card-text">Soft, warm, and buttery biscuits to complete your meal.</p>
